@@ -9,3 +9,6 @@ examples/*grounding.png
 archive*
 hostfile
 runs/
+
+# environments
+env/
